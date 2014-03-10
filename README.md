@@ -1,3 +1,7 @@
 # Orchid Atom Theme
 
-A dark theme with a hint of radiant orchid sprinkled with some smooth transitions.
+Orchid is a dark but light syntax theme for [Atom](http://atom.io/). Shaded in radiant orchid and sprinkled with silky smooth transitions.
+
+![](https://raw.github.com/hallodom/orchid/master/screenshot.jpg)
+
+
