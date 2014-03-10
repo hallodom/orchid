@@ -2,7 +2,7 @@
   "name": "orchid",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "A short description of your syntax theme",
+  "description": "Orchid is a dark but light syntax theme. Shaded in radiant orchid and sprinkled with silky smooth transitions.",
   "repository": "https://github.com/hallodom/orchid",
   "license": "MIT",
   "engines": {
